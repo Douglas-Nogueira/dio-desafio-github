@@ -1,0 +1,3 @@
+Comandos Git 
+-m (mensagem)
+commit - comitar, inserção de mudanças
