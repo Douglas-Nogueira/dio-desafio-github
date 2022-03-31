@@ -1,3 +1,5 @@
 Comandos Git 
 -m (mensagem)
 commit - comitar, inserção de mudanças
+git push origin main (inserir mudanças na main dentro do github)
+git add ( adicionar a mudança no guit bash antes do github)Stagged
